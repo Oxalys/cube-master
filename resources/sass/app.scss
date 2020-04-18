@@ -1,14 +1,27 @@
-// Fonts
-@import url('https://fonts.googleapis.com/css?family=Nunito');
+// // Fonts
+// @import url('https://fonts.googleapis.com/css?family=Nunito');
 
-// Bootstrap
-@import'~bootstrap/dist/css/bootstrap.css';
-@import "style.scss";
+// // Bootstrap
+// @import'~bootstrap/dist/css/bootstrap.css';
 
-// Variables
-@import 'variables';
+// // Variables
+// @import 'variables';
 
-// fontawesome
-@import "~@fortawesome/fontawesome-free/scss/fontawesome.scss";
-@import "~@fortawesome/fontawesome-free/scss/solid.scss";
-@import "~@fortawesome/fontawesome-free/scss/brands.scss";
+// // fontawesome
+// @import "~@fortawesome/fontawesome-free/scss/fontawesome.scss";
+// @import "~@fortawesome/fontawesome-free/scss/solid.scss";
+// @import "~@fortawesome/fontawesome-free/scss/brands.scss";
+
+@import "css/animate.css";
+@import "css/icomoon.css";
+@import "css/themify-icons.css";
+@import "css/bootstrap.css";
+
+@import "css/magnific-popup.css";
+
+@import "css/owl.carousel.min.css";
+@import "css/owl.theme.default.min.css";
+
+
+@import "css/style.css";
+// @import "bootstrap.scss";
